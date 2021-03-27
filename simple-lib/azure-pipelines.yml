@@ -20,4 +20,4 @@ steps:
     mavenAuthenticateFeed: true
     publishJUnitResults: false
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
-    goals: 'deploy'
+    goals: 'compile'
