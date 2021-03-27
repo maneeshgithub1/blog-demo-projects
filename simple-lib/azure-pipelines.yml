@@ -27,3 +27,4 @@ steps:
     command: buildAndPush
     repository: dockerdevregis
     Dockerfile: app/Dockerfile
+    containerRegistry: dockerdevregis
